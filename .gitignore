@@ -1,0 +1,18 @@
+#
+# zed-tlaplus
+#
+
+*.wasm
+/grammars
+
+#
+# Rust
+#
+
+/target
+
+#
+# macOS
+#
+
+.DS_Store
